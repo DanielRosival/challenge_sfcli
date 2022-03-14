@@ -48,3 +48,6 @@ Options:
     |--maxsize Max size, default 600, optional
   --help  Show help information
 ```
+
+## Settings:
+Specify api url (BaseUrl) in ```appsettings.json```
